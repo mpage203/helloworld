@@ -1,3 +1,6 @@
 Apple
 Orange
 Kiwi
+Blueberry
+Strawberry
+Clementine
